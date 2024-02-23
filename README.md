@@ -14,8 +14,8 @@
 ## Tech Stack
 
 * Flutter
-* Dart
 * Firebase
+* Agora API
 
 <!-- UI -->
 ## UI
