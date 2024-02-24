@@ -1,5 +1,5 @@
 import 'package:agora_uikit/agora_uikit.dart';
-import 'package:chat_app_2/common/Widgets/loader.dart';
+import 'package:chat_app_2/common/widgets/loader.dart';
 import 'package:chat_app_2/agora_config.dart';
 import 'package:chat_app_2/features/call/repository/call_repository.dart';
 import 'package:chat_app_2/models/call.dart';

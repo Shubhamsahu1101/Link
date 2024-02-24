@@ -1,4 +1,4 @@
-import 'package:chat_app_2/common/Widgets/loader.dart';
+import 'package:chat_app_2/common/widgets/loader.dart';
 import 'package:chat_app_2/common/utils/utils.dart';
 import 'package:chat_app_2/features/chat/repository/chat_repository.dart';
 import 'package:chat_app_2/features/chat/screens/mobile_chat_screen.dart';

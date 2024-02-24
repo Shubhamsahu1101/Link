@@ -1,4 +1,4 @@
-import 'package:chat_app_2/common/Widgets/loader.dart';
+import 'package:chat_app_2/common/widgets/loader.dart';
 import 'package:chat_app_2/common/utils/colors.dart';
 import 'package:chat_app_2/features/auth/repository/auth_repository.dart';
 import 'package:chat_app_2/features/chat/widgets/bottom_chat_field.dart';

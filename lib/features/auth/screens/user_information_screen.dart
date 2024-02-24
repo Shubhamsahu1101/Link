@@ -1,5 +1,5 @@
 import 'dart:io';
-import 'package:chat_app_2/common/Widgets/custom_button.dart';
+import 'package:chat_app_2/common/widgets/custom_button.dart';
 import 'package:chat_app_2/common/utils/colors.dart';
 import 'package:chat_app_2/features/auth/repository/auth_repository.dart';
 import 'package:chat_app_2/common/utils/utils.dart';
